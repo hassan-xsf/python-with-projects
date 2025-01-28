@@ -2,7 +2,7 @@ import requests
 from fake_useragent import UserAgent
 from concurrent.futures import ThreadPoolExecutor
 import uuid
-import BeautifulSoup
+from bs4 import BeautifulSoup
 
 MAX_PAGES = 1
 
@@ -21,15 +21,20 @@ headers = {
 
 def scrapWeb(url, page = 0):
     try:
-        name = f"{uuid.uuid4()}_page_{page}.html"
-        print(name)
+        name = f"{uuid.uuid4()}_page_{page}"
         response = session.get(f"{url}?page={page}" , headers=headers)
         response.raise_for_status()
         if(response.status_code != 200):
             return print(f"There was an error: Error Code: {response.status_code}")
-        print(response.content)
-        with(open(name , "wb") as f):
+        soup = BeautifulSoup(response.content, 'html.parser')
+        
+        with(open(name + ".html" , "wb") as f):
             f.write(response.content)
+
+        with(open(name + ".txt" , "w") as f):
+            print(soup.get_text())
+            f.write(soup.get_text())
+
 
     except requests.exceptions.RequestException as e:
         print(f"Request failed for {url}: {e}")
