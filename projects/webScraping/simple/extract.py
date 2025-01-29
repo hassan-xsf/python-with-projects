@@ -4,12 +4,13 @@ from concurrent.futures import ThreadPoolExecutor
 import uuid
 from bs4 import BeautifulSoup
 
-MAX_PAGES = 1
+MAX_PAGES = 10
 
 # scrapURL = "https://czone.com.pk/laptops-pakistan-ppt.74.aspx"
 
 scrapURL = "https://www.olx.com.pk/mobiles_c1411"
 session = requests.Session()
+
 headers = {
     'User-Agent': UserAgent().random,
     'Referer': 'https://www.google.com/',
@@ -27,14 +28,21 @@ def scrapWeb(url, page = 0):
         if(response.status_code != 200):
             return print(f"There was an error: Error Code: {response.status_code}")
         soup = BeautifulSoup(response.content, 'html.parser')
-        
+
+        listings = soup.find_all("li" , attrs={"aria-label": "Listing"})
+        pageData = ""
+        for listing in listings:
+            productTitle = listing.find("a").get("title")
+            productLink = listing.find("a").get("href")
+            productPrice = listing.find("div", attrs={"aria-label": "Price"}).find("span").text
+            productLocation = listing.find("span", attrs={"aria-label": "Location"}).text
+            pageData += f"Title: {productTitle}|Price: {productPrice}|Location: {productLocation}|Link: https://www.olx.com.pk/{productLink}\n"
+
         with(open(name + ".html" , "wb") as f):
             f.write(response.content)
 
         with(open(name + ".txt" , "w") as f):
-            print(soup.get_text())
-            f.write(soup.get_text())
-
+            f.write(pageData)
 
     except requests.exceptions.RequestException as e:
         print(f"Request failed for {url}: {e}")

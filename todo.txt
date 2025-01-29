@@ -1,6 +1,6 @@
-- Web Scraping (Any website, Maybe with proxy)
-- AI chatbot.
+- Web Scraping (PROXY)
+- Daraz.pk / CZONE.pk
 
 
-
+AI Agent that helps in thumbnail or something?
 Save yourself from scammers? By finding posts and everything about certain peoples?
