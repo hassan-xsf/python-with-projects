@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://react.dev/</loc>
+  <lastmod>2025-01-27T18:57:35+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://react.dev/versions</loc>
+  <lastmod>2025-01-27T19:02:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn</loc>
+  <lastmod>2025-01-27T18:57:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react</loc>
+  <lastmod>2025-01-27T19:02:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://react.dev/community</loc>
+  <lastmod>2025-01-27T19:47:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://react.dev/blog</loc>
+  <lastmod>2025-01-27T18:57:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://react.dev/community/translations</loc>
+  <lastmod>2025-01-28T03:53:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/add-react-to-an-existing-project</loc>
+  <lastmod>2025-01-27T19:03:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/start-a-new-react-project</loc>
+  <lastmod>2025-01-27T18:59:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://react.dev/blog/2024/12/05/react-19</loc>
+  <lastmod>2025-01-27T18:57:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://react.dev/blog/2024/10/21/react-compiler-beta-release</loc>
+  <lastmod>2025-01-27T20:26:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://react.dev/blog/2024/05/22/react-conf-2024-recap</loc>
+  <lastmod>2025-01-27T22:31:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/installation</loc>
+  <lastmod>2025-01-27T18:59:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/describing-the-ui</loc>
+  <lastmod>2025-01-27T19:10:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/adding-interactivity</loc>
+  <lastmod>2025-01-27T20:15:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/managing-state</loc>
+  <lastmod>2025-01-27T19:00:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/escape-hatches</loc>
+  <lastmod>2025-01-27T19:10:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom</loc>
+  <lastmod>2025-01-27T21:04:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://react.dev/community/team</loc>
+  <lastmod>2025-01-28T02:09:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://react.dev/community/docs-contributors</loc>
+  <lastmod>2025-01-28T03:53:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://react.dev/community/acknowledgements</loc>
+  <lastmod>2025-01-27T20:44:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/components</loc>
+  <lastmod>2025-01-27T20:54:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/apis</loc>
+  <lastmod>2025-01-27T20:25:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/legacy</loc>
+  <lastmod>2025-01-28T14:00:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/components</loc>
+  <lastmod>2025-01-27T19:45:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/client</loc>
+  <lastmod>2025-01-27T20:39:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/server</loc>
+  <lastmod>2025-01-27T19:40:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/community/versioning-policy</loc>
+  <lastmod>2025-01-27T21:07:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/blog/2023/03/16/introducing-react-dev</loc>
+  <lastmod>2025-01-27T19:43:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/blog/2024/04/25/react-19-upgrade-guide</loc>
+  <lastmod>2025-01-27T18:57:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/blog/2022/03/29/react-v18</loc>
+  <lastmod>2025-01-27T19:01:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/blog/2022/03/08/react-18-upgrade-guide</loc>
+  <lastmod>2025-01-27T19:10:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/blog/2021/06/08/the-plan-for-react-18</loc>
+  <lastmod>2025-01-27T19:49:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/tutorial-tic-tac-toe</loc>
+  <lastmod>2025-01-27T19:07:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/thinking-in-react</loc>
+  <lastmod>2025-01-27T19:28:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/editor-setup</loc>
+  <lastmod>2025-01-27T20:11:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/typescript</loc>
+  <lastmod>2025-01-27T18:58:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/react-developer-tools</loc>
+  <lastmod>2025-01-27T19:01:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/react-compiler</loc>
+  <lastmod>2025-01-27T19:12:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/your-first-component</loc>
+  <lastmod>2025-01-27T19:09:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/importing-and-exporting-components</loc>
+  <lastmod>2025-01-27T19:41:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/writing-markup-with-jsx</loc>
+  <lastmod>2025-01-27T19:40:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/javascript-in-jsx-with-curly-braces</loc>
+  <lastmod>2025-01-27T19:27:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/passing-props-to-a-component</loc>
+  <lastmod>2025-01-27T19:07:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/conditional-rendering</loc>
+  <lastmod>2025-01-27T19:04:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/rendering-lists</loc>
+  <lastmod>2025-01-27T19:11:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/keeping-components-pure</loc>
+  <lastmod>2025-01-27T19:25:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/understanding-your-ui-as-a-tree</loc>
+  <lastmod>2025-01-27T19:02:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/responding-to-events</loc>
+  <lastmod>2025-01-27T19:38:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/state-a-components-memory</loc>
+  <lastmod>2025-01-27T19:36:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/render-and-commit</loc>
+  <lastmod>2025-01-27T19:07:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/state-as-a-snapshot</loc>
+  <lastmod>2025-01-28T02:58:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/queueing-a-series-of-state-updates</loc>
+  <lastmod>2025-01-27T19:02:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/updating-objects-in-state</loc>
+  <lastmod>2025-01-27T19:07:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/updating-arrays-in-state</loc>
+  <lastmod>2025-01-27T19:07:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/reacting-to-input-with-state</loc>
+  <lastmod>2025-01-27T19:40:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/choosing-the-state-structure</loc>
+  <lastmod>2025-01-27T21:20:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/sharing-state-between-components</loc>
+  <lastmod>2025-01-27T18:58:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/preserving-and-resetting-state</loc>
+  <lastmod>2025-01-27T19:07:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/extracting-state-logic-into-a-reducer</loc>
+  <lastmod>2025-01-27T19:51:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/passing-data-deeply-with-context</loc>
+  <lastmod>2025-01-27T19:44:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/scaling-up-with-reducer-and-context</loc>
+  <lastmod>2025-01-27T21:28:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/referencing-values-with-refs</loc>
+  <lastmod>2025-01-27T19:58:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/manipulating-the-dom-with-refs</loc>
+  <lastmod>2025-01-27T21:33:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/synchronizing-with-effects</loc>
+  <lastmod>2025-01-27T20:40:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/you-might-not-need-an-effect</loc>
+  <lastmod>2025-01-27T19:07:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/lifecycle-of-reactive-effects</loc>
+  <lastmod>2025-01-27T20:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/separating-events-from-effects</loc>
+  <lastmod>2025-01-28T03:55:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/removing-effect-dependencies</loc>
+  <lastmod>2025-01-28T11:21:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/learn/reusing-logic-with-custom-hooks</loc>
+  <lastmod>2025-01-27T20:19:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/useState</loc>
+  <lastmod>2025-01-27T19:00:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/hooks</loc>
+  <lastmod>2025-01-27T18:58:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/useActionState</loc>
+  <lastmod>2025-01-27T19:05:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/useCallback</loc>
+  <lastmod>2025-01-27T19:00:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/useContext</loc>
+  <lastmod>2025-01-27T19:00:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/useDebugValue</loc>
+  <lastmod>2025-01-28T05:59:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/useDeferredValue</loc>
+  <lastmod>2025-01-27T20:51:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/useEffect</loc>
+  <lastmod>2025-01-27T19:03:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/useId</loc>
+  <lastmod>2025-01-27T19:07:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/useImperativeHandle</loc>
+  <lastmod>2025-01-27T19:48:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/useInsertionEffect</loc>
+  <lastmod>2025-01-27T19:55:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/useLayoutEffect</loc>
+  <lastmod>2025-01-27T19:16:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/useMemo</loc>
+  <lastmod>2025-01-27T19:01:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/useOptimistic</loc>
+  <lastmod>2025-01-27T22:59:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/useReducer</loc>
+  <lastmod>2025-01-27T19:06:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/useRef</loc>
+  <lastmod>2025-01-27T19:00:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/useSyncExternalStore</loc>
+  <lastmod>2025-01-27T19:54:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/useTransition</loc>
+  <lastmod>2025-01-27T19:19:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/Fragment</loc>
+  <lastmod>2025-01-27T19:25:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/Profiler</loc>
+  <lastmod>2025-01-27T19:36:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/StrictMode</loc>
+  <lastmod>2025-01-27T19:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/Suspense</loc>
+  <lastmod>2025-01-27T18:59:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/act</loc>
+  <lastmod>2025-01-28T02:40:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/cache</loc>
+  <lastmod>2025-01-27T18:57:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/createContext</loc>
+  <lastmod>2025-01-27T19:21:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/lazy</loc>
+  <lastmod>2025-01-27T19:27:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/memo</loc>
+  <lastmod>2025-01-27T19:25:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/startTransition</loc>
+  <lastmod>2025-01-28T02:07:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/use</loc>
+  <lastmod>2025-01-27T19:23:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/experimental_taintObjectReference</loc>
+  <lastmod>2025-01-28T13:15:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/experimental_taintUniqueValue</loc>
+  <lastmod>2025-01-28T14:00:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/hooks</loc>
+  <lastmod>2025-01-27T19:39:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/hooks/useFormStatus</loc>
+  <lastmod>2025-01-27T20:06:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/components/common</loc>
+  <lastmod>2025-01-27T19:23:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/components/form</loc>
+  <lastmod>2025-01-27T19:08:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/components/input</loc>
+  <lastmod>2025-01-27T19:09:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/components/option</loc>
+  <lastmod>2025-01-27T22:17:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/components/progress</loc>
+  <lastmod>2025-01-27T19:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/components/select</loc>
+  <lastmod>2025-01-27T19:01:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/components/textarea</loc>
+  <lastmod>2025-01-27T19:02:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/components/link</loc>
+  <lastmod>2025-01-27T19:08:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/components/meta</loc>
+  <lastmod>2025-01-27T19:08:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/components/script</loc>
+  <lastmod>2025-01-27T19:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/components/style</loc>
+  <lastmod>2025-01-27T19:06:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/components/title</loc>
+  <lastmod>2025-01-28T04:49:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/createPortal</loc>
+  <lastmod>2025-01-27T18:58:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/flushSync</loc>
+  <lastmod>2025-01-28T07:34:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/preconnect</loc>
+  <lastmod>2025-01-28T13:46:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/prefetchDNS</loc>
+  <lastmod>2025-01-28T13:31:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/preinit</loc>
+  <lastmod>2025-01-28T13:59:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/preinitModule</loc>
+  <lastmod>2025-01-28T13:59:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/preload</loc>
+  <lastmod>2025-01-27T19:12:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/preloadModule</loc>
+  <lastmod>2025-01-28T13:59:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/client/createRoot</loc>
+  <lastmod>2025-01-27T19:12:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/client/hydrateRoot</loc>
+  <lastmod>2025-01-27T19:33:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/server/renderToPipeableStream</loc>
+  <lastmod>2025-01-27T20:18:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/server/renderToReadableStream</loc>
+  <lastmod>2025-01-28T13:18:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/server/renderToStaticMarkup</loc>
+  <lastmod>2025-01-27T19:48:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/server/renderToString</loc>
+  <lastmod>2025-01-27T19:31:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/static</loc>
+  <lastmod>2025-01-28T13:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/static/prerender</loc>
+  <lastmod>2025-01-27T19:05:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react-dom/static/prerenderToNodeStream</loc>
+  <lastmod>2025-01-28T13:59:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/rules</loc>
+  <lastmod>2025-01-27T20:06:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/rules/components-and-hooks-must-be-pure</loc>
+  <lastmod>2025-01-28T02:41:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/rules/react-calls-components-and-hooks</loc>
+  <lastmod>2025-01-27T19:24:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/rules/rules-of-hooks</loc>
+  <lastmod>2025-01-27T21:21:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/rsc/server-components</loc>
+  <lastmod>2025-01-27T19:29:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/rsc/server-functions</loc>
+  <lastmod>2025-01-27T19:36:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/rsc/directives</loc>
+  <lastmod>2025-01-28T08:03:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/rsc/use-client</loc>
+  <lastmod>2025-01-27T20:12:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/rsc/use-server</loc>
+  <lastmod>2025-01-27T20:28:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/Children</loc>
+  <lastmod>2025-01-27T19:12:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/cloneElement</loc>
+  <lastmod>2025-01-27T21:37:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/Component</loc>
+  <lastmod>2025-01-27T18:58:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/createElement</loc>
+  <lastmod>2025-01-27T18:59:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/createRef</loc>
+  <lastmod>2025-01-28T02:40:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/forwardRef</loc>
+  <lastmod>2025-01-27T19:08:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/isValidElement</loc>
+  <lastmod>2025-01-27T19:49:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/PureComponent</loc>
+  <lastmod>2025-01-28T01:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/community/conferences</loc>
+  <lastmod>2025-01-27T19:50:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/community/meetups</loc>
+  <lastmod>2025-01-28T03:53:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/community/videos</loc>
+  <lastmod>2025-01-28T13:58:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024</loc>
+  <lastmod>2025-01-27T22:31:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/blog/2023/05/03/react-canaries</loc>
+  <lastmod>2025-01-27T22:31:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023</loc>
+  <lastmod>2025-01-27T22:31:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022</loc>
+  <lastmod>2025-01-27T20:55:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/blog/2021/12/17/react-conf-2021-recap</loc>
+  <lastmod>2025-01-27T22:31:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/blog/2020/12/21/data-fetching-with-react-server-components</loc>
+  <lastmod>2025-01-27T22:31:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://react.dev/reference/react/experimental_useEffectEvent</loc>
+  <lastmod>2025-01-28T10:36:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>

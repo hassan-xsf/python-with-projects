@@ -1,6 +1,9 @@
 - Web Scraping (PROXY)
 - Daraz.pk / CZONE.pk
 
+- Building a RAG agent based on REACT.DEV/SIMIU
+- Extracting all links + making a RAG with Crawl4AI.
+- A chat application.
 
 AI Agent that helps in thumbnail or something?
 Save yourself from scammers? By finding posts and everything about certain peoples?
