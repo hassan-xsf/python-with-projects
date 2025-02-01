@@ -2,6 +2,10 @@ import os
 from pathlib import Path
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
+
+# https://blog.futuresmart.ai/langchain-rag-from-basics-to-production-ready-rag-chatbot
+
+
 def load_data():
     try:
         current_dir = Path(__file__).parent
