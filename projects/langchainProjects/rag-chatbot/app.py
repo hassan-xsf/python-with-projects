@@ -1,5 +1,6 @@
 import os
 from pathlib import Path
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 def load_data():
     try:
@@ -20,5 +21,5 @@ def load_data():
 if __name__ == "__main__":
     text = load_data()
     if text:
-        print(text.strip()[:100])
         print("Data loaded successfully")
+        splittedText = RecursiveCharacterTextSplitter
